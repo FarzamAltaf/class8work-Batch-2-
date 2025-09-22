@@ -1,0 +1,20 @@
+.container .content {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border: 2px double rgb(255, 255, 255);
+  background-color: blue;
+  border-radius: 30px;
+  /* visibility: hidden; */
+  /* position: sticky;
+  margin-top: 50px;
+  top: 0; */
+}
+
+.container {
+  border: 6px solid rgb(0, 255, 255);
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+}
